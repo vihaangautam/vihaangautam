@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vihaangautam04@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find me here:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vihaan-gautam-39b77a2a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vihaan-gautam-39b77a2a3" height="30" width="40" /></a>
 <a href="https://medium.com/@vihaangautam04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vihaangautam04" height="30" width="40" /></a>
