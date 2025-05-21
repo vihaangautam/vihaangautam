@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Vihaan Gautam</h1>
-<h3 align="center">I'm an android developer eager to innovate and solve real-world problems, with a growing interest in Cloud Computing and Gen-AI.</h3>
+<h3 align="center">I'm an android-developer eager to innovate and solve real-world problems, with a growing interest in Cloud Computing and Gen-AI.</h3>
 
 - 🔭 I’m currently working on [BlogSpace](https://github.com/vihaangautam/BlogSpace)
 
