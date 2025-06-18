@@ -19,5 +19,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vihaangautam&show_icons=true&locale=en&layout=compact" alt="vihaangautam" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user="vihaangautam" alt="GitHub Streak" /></a>
-
+![](https://nirzak-streak-stats.vercel.app/?user=vihaangautam&theme=gruvbox&hide_border=true)<br/>
