@@ -19,4 +19,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vihaangautam&show_icons=true&locale=en&layout=compact" alt="vihaangautam" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vihaangautam&" alt="vihaangautam" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vihaangautam" alt="vihaangautam" />
+</p>
+
