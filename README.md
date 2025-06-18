@@ -20,6 +20,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vihaangautam&show_icons=true&locale=en&layout=compact" alt="vihaangautam" /></p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vihaangautam" alt="vihaangautam" />
+  <img src="https://streak-stats.demolab.com?user=vihaangautam&theme=dark&hide_border=true" alt="vihaangautam streak stats" />
 </p>
-
