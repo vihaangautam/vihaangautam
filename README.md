@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Vihaan Gautam</h1>
 <h3 align="center">I'm a software-developer eager to innovate and solve real-world problems, with a growing interest in Cloud Computing and Gen-AI.</h3>
 
-- 🔭 I’m currently working on learning [REACT-VIRO](https://github.com/vihaangautam/React_Viro)
+- 🔭 I’m currently building [GradeGlide](https://github.com/vihaangautam/GradeGlide.git)
 
 - 📝 I write articles on [https://medium.com/@vihaangautam04](https://medium.com/@vihaangautam04)
 
