@@ -65,7 +65,7 @@ reach_me   : vihaangautam04@gmail.com
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=vihaangautam&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=vihaangautam&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="60%"/>
 
 </div>
 
